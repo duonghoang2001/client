@@ -1,0 +1,23 @@
+{
+    "params": {
+        "name": "",
+        "customer": "Administration",
+        "date_deadline": "01/12/2023",
+        "email": "admin@gmail.com",
+        "phone": "(010) 322-3902",
+        "internal_notes": "",
+        "requests": [
+            {
+                "product": "Soap",
+                "quantity": "2",
+                "date": "30/10/2023"
+            },
+            {
+                "product": "Conditioner",
+                "quantity": "1",
+                "date": ""
+            }
+        ]
+    }
+    
+}
